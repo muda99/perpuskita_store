@@ -1,4 +1,4 @@
-package com.example.perpuskita_store
+package com.perpuskita_store
 
 import io.flutter.embedding.android.FlutterActivity
 
